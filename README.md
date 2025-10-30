@@ -160,7 +160,7 @@
   **适用场景**：**高精度插拔、螺丝拧紧、门把操作**等需精确力反馈的工业装配线。
 
 - **ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-Rich Manipulation**  
-  [Paper](https://arxiv.org/abs/2505.22159) | Code（未开源，NVIDIA内测）  
+  [Paper](https://arxiv.org/abs/2505.22159) | Code（未开源）  
   **创新点**：力感知MoE动态路由6轴力/扭矩反馈至VLA骨干，插拔任务成功率↑23.2%，桥接感知-执行延迟。  
   **适用场景**：**USB/HDMI插拔、钥匙开锁、精密对接**等接触瞬态敏感的自动化场景。
 
@@ -185,7 +185,7 @@
   **适用场景**：**多步烹饪、家具组装、物流分拣链**等长时序、强逻辑依赖的任务流。
 
 - **BitVLA: 1-Bit Quantized VLA for Efficiency**  
-  [Paper](https://arxiv.org/abs/2506.07530) | [Code](https://github.com/efficient-vla/bitvla)  
+  [Paper](https://arxiv.org/abs/2506.07530) | [Code](https://github.com/ustcwhy/BitVLA)  
   **创新点**：三元1-bit量化（{-1,0,1}）+蒸馏，内存↓29.8%，LIBERO性能持平OpenVLA。  
   **适用场景**：**嵌入式机器人、无人机伴飞、移动机械臂**等极致算力受限平台。
 
