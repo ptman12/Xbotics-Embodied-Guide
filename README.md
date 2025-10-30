@@ -166,7 +166,7 @@
   **适用场景**：**USB/HDMI插拔、钥匙开锁、精密对接**等接触瞬态敏感的自动化场景。
 
 - **OpenVLA-OFT: Optimized Fine-Tuning for Speed and Success**  
-  [Paper](https://arxiv.org/abs/2502.19645)) | [Code](https://github.com/moojink/openvla-oft))  
+  [Paper](https://arxiv.org/abs/2502.19645) | [Code](https://github.com/moojink/openvla-oft)
   **创新点**：OFT高效微调策略，支持多图输入+高频双臂输出，推理加速25-50×，LIBERO↑15%。  
   **适用场景**：**双臂协作搬运、快速分拣、桌面整理**等需高吞吐的仓储/服务机器人。
 
