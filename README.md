@@ -201,7 +201,7 @@
   **适用场景**：**实时避障抓取、动态人机交互、遥操作延迟敏感**场景。
 
 - **VLA-Touch: Dual-Level Tactile Feedback Enhancement**  
-  [Paper]((https://arxiv.org/abs/2507.17294)) | [Code](https://github.com/tactile-vla/vla-touch)  
+  [Paper](https://arxiv.org/abs/2507.17294) | [Code](https://github.com/tactile-vla/vla-touch)  
   **创新点**：宏观+微观双层触觉融合，强化未知物体grounding，接触任务精度↑25%。  
   **适用场景**：**软体抓取、布料折叠、医疗辅助触诊**等需高触觉分辨率的柔性操作。
 
