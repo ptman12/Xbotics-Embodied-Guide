@@ -186,7 +186,7 @@
 
 - **BitVLA: 1-Bit Quantized VLA for Efficiency**  
   [Paper](https://arxiv.org/abs/2506.07530) | [Code](https://github.com/ustcwhy/BitVLA)  
-  **创新点**：三元1-bit量化（{-1,0,1}）+蒸馏，内存↓29.8%，LIBERO性能持平OpenVLA。  
+  **创新点**：三元1-bit量化+蒸馏，内存↓29.8%，LIBERO性能持平OpenVLA。  
   **适用场景**：**嵌入式机器人、无人机伴飞、移动机械臂**等极致算力受限平台。
 
 - **VLA-Touch: Dual-Level Tactile Feedback Enhancement**  
