@@ -171,6 +171,7 @@
 
 - **SmolVLA: Compact VLA for Affordable Robotics**  
   [Paper](https://arxiv.org/abs/2506.01844) | [Code](https://github.com/huggingface/smolvla)
+  
   **创新点**：450M参数异步推理栈，社区数据训练，性能媲美10×大模型，内存占用仅1/10。  
   **适用场景**：**低成本教育机器人、家庭助手、边缘设备部署**（如Raspberry Pi级硬件）。
 
@@ -188,11 +189,6 @@
   [Paper](https://arxiv.org/abs/2506.07530) | [Code](https://github.com/efficient-vla/bitvla)  
   **创新点**：三元1-bit量化（{-1,0,1}）+蒸馏，内存↓29.8%，LIBERO性能持平OpenVLA。  
   **适用场景**：**嵌入式机器人、无人机伴飞、移动机械臂**等极致算力受限平台。
-
-- **MoLe-VLA: Mixture-of-Layers for Dynamic Skipping**  
-  [Paper](https://arxiv.org/abs/2504.05678) | [Code](https://github.com/embodied-ai/mole-vla)  
-  **创新点**：动态层跳跃（MoL）机制，按任务难度自适应计算，成功率↑18%，延迟↓40%。  
-  **适用场景**：**实时避障抓取、动态人机交互、遥操作延迟敏感**场景。
 
 - **VLA-Touch: Dual-Level Tactile Feedback Enhancement**  
   [Paper](https://arxiv.org/abs/2507.17294) | [Code](https://github.com/tactile-vla/vla-touch)  
