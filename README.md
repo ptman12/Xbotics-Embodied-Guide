@@ -174,13 +174,8 @@
   **创新点**：450M参数异步推理栈，社区数据训练，性能媲美10×大模型，内存占用仅1/10。  
   **适用场景**：**低成本教育机器人、家庭助手、边缘设备部署**（如Raspberry Pi级硬件）。
 
-- **Helix: Dual-System VLA for Humanoid Control**  
-  [Paper](https://arxiv.org/abs/2502.11234) | [Code](https://github.com/figure-ai/helix)  
-  **创新点**：System1（扩散）+ System2（LLM）双系统，高频全上身控制，500h遥控数据驱动，泛化↑30%。  
-  **适用场景**：**人形机器人全姿态导航、厨房操作、复杂工具使用**等开放环境任务。
-
 - **GR00T N1: Heterogeneous Data VLA for Humanoids**  
-  [Paper](https://arxiv.org/abs/2503.07890) | [Code](https://github.com/nvidia/gr00t-n1)  
+  [Paper](https://arxiv.org/abs/2503.14734) | [Code](https://github.com/NVIDIA/Isaac-GR00T)
   **创新点**：融合轨迹+视频+合成数据异构训练，长时序鲁棒性↑22%，System2感知解耦执行。  
   **适用场景**：**工厂无人巡检、灾后搜救、动态环境适应**等需跨模态泛化的复杂任务。
 
