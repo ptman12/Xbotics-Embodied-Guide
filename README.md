@@ -166,12 +166,12 @@
 
 - **OpenVLA-OFT: Optimized Fine-Tuning for Speed and Success**  
   [Paper](https://arxiv.org/abs/2502.19645) | [Code](https://github.com/moojink/openvla-oft)  
-  **创新点**：OFT高效微调策略，支持多图输入+高频双臂输出，推理加速25-50×，LIBERO↑15%。  
+  **创新点**：OFT高效微调策略，支持多图输入+高频双臂输出，推理加速25-50倍，LIBERO↑15%。  
   **适用场景**：**双臂协作搬运、快速分拣、桌面整理**等需高吞吐的仓储/服务机器人。
 
 - **SmolVLA: Compact VLA for Affordable Robotics**  
   [Paper](https://arxiv.org/abs/2506.01844) | [Code](https://github.com/huggingface/lerobot)  
-  **创新点**：450M参数异步推理栈，社区数据训练，性能媲美10×大模型，内存占用仅1/10。  
+  **创新点**：450M参数异步推理栈，社区数据训练，性能媲美10倍大的大模型，内存占用仅1/10。  
   **适用场景**：**低成本教育机器人、家庭助手、边缘设备部署**（如Raspberry Pi级硬件）。
 
 - **GR00T N1: Heterogeneous Data VLA for Humanoids**  
@@ -181,7 +181,7 @@
 
 - **Long-VLA: Unleashing Long-Horizon Capabilities**  
   [Paper](https://arxiv.org/abs/2508.19958) | Code（未开源）    
-  **创新点**：技能链+子任务依赖图建模，分层提示驱动多步规划，成功率>2×SOTA。  
+  **创新点**：技能链+子任务依赖图建模，分层提示驱动多步规划，成功率>2倍SOTA。  
   **适用场景**：**多步烹饪、家具组装、物流分拣链**等长时序、强逻辑依赖的任务流。
 
 - **BitVLA: 1-Bit Quantized VLA for Efficiency**  
