@@ -180,7 +180,7 @@
   **适用场景**：**工厂无人巡检、灾后搜救、动态环境适应**等需跨模态泛化的复杂任务。
 
 - **Long-VLA: Unleashing Long-Horizon Capabilities**  
-  [Paper](https://arxiv.org/abs/2508.19958) | [Code](未开源)  
+  [Paper](https://arxiv.org/abs/2508.19958) | Code（未开源）    
   **创新点**：技能链+子任务依赖图建模，分层提示驱动多步规划，成功率>2×SOTA。  
   **适用场景**：**多步烹饪、家具组装、物流分拣链**等长时序、强逻辑依赖的任务流。
 
