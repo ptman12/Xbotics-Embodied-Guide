@@ -164,15 +164,13 @@
   **创新点**：力感知MoE动态路由6轴力/扭矩反馈至VLA骨干，插拔任务成功率↑23.2%，桥接感知-执行延迟。  
   **适用场景**：**USB/HDMI插拔、钥匙开锁、精密对接**等接触瞬态敏感的自动化场景。
 
-- **OpenVLA-OFT: Optimized Fine-Tuning for Speed and Success**
-  [Paper](https://arxiv.org/abs/2505.22159) | Code（未开源，NVIDIA内测）  
+- **OpenVLA-OFT: Optimized Fine-Tuning for Speed and Success**  
   [Paper](https://arxiv.org/abs/2502.19645) | [Code](https://github.com/moojink/openvla-oft)  
   **创新点**：OFT高效微调策略，支持多图输入+高频双臂输出，推理加速25-50×，LIBERO↑15%。  
   **适用场景**：**双臂协作搬运、快速分拣、桌面整理**等需高吞吐的仓储/服务机器人。
 
 - **SmolVLA: Compact VLA for Affordable Robotics**  
-  [Paper](https://arxiv.org/abs/2506.01844) | [Code](https://github.com/huggingface/smolvla)
-  
+  [Paper](https://arxiv.org/abs/2506.01844) | [Code](https://github.com/huggingface/smolvla)  
   **创新点**：450M参数异步推理栈，社区数据训练，性能媲美10×大模型，内存占用仅1/10。  
   **适用场景**：**低成本教育机器人、家庭助手、边缘设备部署**（如Raspberry Pi级硬件）。
 
