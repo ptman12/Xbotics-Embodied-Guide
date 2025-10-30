@@ -175,7 +175,7 @@
   **适用场景**：**低成本教育机器人、家庭助手、边缘设备部署**（如Raspberry Pi级硬件）。
 
 - **GR00T N1: Heterogeneous Data VLA for Humanoids**  
-  [Paper](https://arxiv.org/abs/2503.14734) | [Code](https://github.com/NVIDIA/Isaac-GR00T)
+  [Paper](https://arxiv.org/abs/2503.14734) | [Code](https://github.com/NVIDIA/Isaac-GR00T)  
   **创新点**：融合轨迹+视频+合成数据异构训练，长时序鲁棒性↑22%，System2感知解耦执行。  
   **适用场景**：**工厂无人巡检、灾后搜救、动态环境适应**等需跨模态泛化的复杂任务。
 
